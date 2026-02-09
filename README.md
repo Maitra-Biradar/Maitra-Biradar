@@ -24,6 +24,7 @@
 - 🔐 **Security Basics:** IAM roles, environment variables, secrets management
 - 📊 **Monitoring & Logging:** Basic Prometheus & Grafana
 
+---
 
 ### 🛠️ Tech Stack
 
