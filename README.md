@@ -13,6 +13,18 @@
 
 ---
 
+### 🛠️ DevOps Skills
+- 🐳 **Containerization:** Docker, Docker Compose
+- ☸️ **Container Orchestration:** Kubernetes (Pods, Deployments, Services, Probes, )
+- 🔁 **CI/CD Pipelines:** Jenkins (Pipeline as Code), GitHub Actions
+- ☁️ **Cloud Platforms:** AWS (EC2, S3, IAM, RDS)
+- 🧰 **Build & Automation:** Maven, Git, GitHub
+- 🖥️ **Servers & OS:** Linux (Ubuntu), Shell Scripting
+- 📦 **Artifact & Image Management:** Docker Hub
+- 🔐 **Security Basics:** IAM roles, environment variables, secrets management
+- 📊 **Monitoring & Logging:** Basic Prometheus & Grafana
+
+
 ### 🛠️ Tech Stack
 
 #### Backend
